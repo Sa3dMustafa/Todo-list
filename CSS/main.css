@@ -63,12 +63,12 @@
 
 @media (max-width: 535px) {
     .container .add-task input[type="text"]{
-        width: 180PX;
+        width: 320PX;
     }
 }
 @media (min-width: 310px) {
     .container .add-task input[type="text"]{
-        width: 150PX;
+        width: 190PX;
     }
 }
 .container .add-task input[type="text"]::placeholder{
