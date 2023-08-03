@@ -31,6 +31,9 @@ taskList.addEventListener("click", function(e){
         e.target.parentElement.remove();
         saveTask ();
     }
+    else {
+        alert("Don't be lazy, do your tasks! \uD83D\uDE21");
+    }    
 },false);
 
 deleteTasks.onclick = function deletetask(){
