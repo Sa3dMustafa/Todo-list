@@ -75,12 +75,12 @@ body{
     outline:none;
 }
 
-@media (max-width: 535px) {
+@media (min-width: 350px) {
     .container .add-task input[type="text"]{
-        width: 320PX;
+        width: 370PX;
     }
 }
-@media (min-width: 310px) {
+@media (min-width: 310px) and (max-width: 535px) {
     .container .add-task input[type="text"]{
         width: 190PX;
     }
