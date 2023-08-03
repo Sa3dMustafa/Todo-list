@@ -25,7 +25,7 @@ body{
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
-    box-shadow: 1px -1px 13px 11px rgb(190 194 207 / 61%);
+    box-shadow: 5px 7px 14px 7px rgb(190 194 207 / 61%);
 }
 .todo-list .container .add{
     display: flex;
